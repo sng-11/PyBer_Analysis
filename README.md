@@ -14,4 +14,4 @@ Based on the above table, it is apparent that the the number of total rides and 
 Based on the above data analysis, there are three recommendations to be made to the CEO of PyBer to address disparities among city types:
 1. Increase the number of drivers in rural and suburban cities: this will increase the supply of rides which can lower fares. This can be done by increasing recruitment initiatives for drivers and offer people more incentive to drive for PyBer.
 2. Lower the fares per ride in rural and suburban cities: this will make PyBer rides more affordable to cities with lower populations and increase demand for rides.
-3. 
+3. Increase the number of rides in rural and suburban cities: this can be done by lowering fares but can also be done by increasing advertisement of PyBer in these lower population cities. Also can implement incentives for riders to use the company more often, like gift cards.
